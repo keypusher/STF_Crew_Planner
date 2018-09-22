@@ -3,16 +3,17 @@ Adv. Mass Dampener 1:Medium:-300:0:3:0:0:0:0:0:0:0:0:5:0:0:0:0
 Adv. Mass Dampener 2:Medium:-330:0:3:0:1:0:0:0:0:0:0:5:0:0:0:0
 Adv. Mass Dampener 3:Medium:-360:0:4:0:1:0:0:0:0:0:0:6:0:0:0:0
 Adv. Mass Dampener 4:Medium:-400:0:4:0:2:0:0:0:0:0:0:6:0:0:0:0
-Advanced Medical Bay:Medium:325:0:3:0:3:0:0:0:0:0:1:0:0:0:0:6
+Advanced Medical Bay:Medium:325:0:3:0:3:0:0:0:0:0:1:2:0:0:0:6
 Aramech Missile Pod:Small:125:0:2:7:1:0:0:0:0:0:0:0:0:0:0:0
 Aramech X2 Missile Battery:Small:125:0:2:11:1:0:0:0:0:0:0:0:0:0:0:0
-Archangel Dual-R Railgun:Medium:300:0:3:4:1:0:0:0:0:0:0:0:0:0:0:0
+Archangel Dual-R Railgun:Medium:300:0:3:5:1:0:0:0:0:0:0:0:0:0:0:0
 Archangel Railgun:Medium:300:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
 Ares Missile System:Medium:300:0:1:4:1:0:0:0:0:0:0:0:0:0:0:0
 Armored Bulkheads:Small:150:0:0:0:0:0:0:0:0:2:1:3:0:0:0:0
 Armored Bulkheads 2:Small:150:0:0:0:0:0:0:0:0:2:2:5:0:0:0:0
 Armored Bulkheads 3:Small:150:0:0:0:0:0:0:0:0:3:3:7:0:0:0:0
 Armored Bulkheads 4:Small:150:0:0:0:0:0:0:0:0:4:3:8:0:0:0:0
+Armored Officer Suites:Medium:275:0:0:0:0:0:0:0:2:2:0:0:0:0:0:0
 Armored Storage:Medium:325:0:3:0:0:0:10:0:0:1:1:1:0:0:0:0
 Arratech Missile Pod:Small:125:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
 Barracks 1:Medium:325:0:0:0:0:0:0:12:0:0:0:0:0:0:0:0
@@ -26,6 +27,8 @@ Barracks 8:Large:650:0:0:0:0:0:0:54:0:0:0:0:0:0:0:0
 Battle Prow 1:Large:650:0:1:0:1:0:0:0:0:10:0:9:0:0:0:0
 Battle Prow 2:Large:650:0:1:0:2:0:0:0:0:12:0:9:0:0:0:0
 Battle Prow 3:Large:650:0:1:0:3:0:0:0:0:14:0:10:0:0:0:0
+Battle Prow 4:Large:635:0:1:0:4:0:0:0:0:15:2:9:0:0:0:0
+Blazelight Railgun:Small:125:0:2:4:2:0:0:0:0:0:0:0:0:0:0:0
 Boarding Assault System:Small:150:2:4:0:0:0:0:0:0:0:0:0:0:0:0:0
 Boarding Assault System 2:Small:150:2:4:0:0:0:0:0:0:0:0:0:0:0:0:0
 Boarding Assault System 3:Small:150:3:3:0:0:0:0:0:0:0:0:0:0:0:0:0
@@ -42,13 +45,14 @@ Cargo Hold 1:Large:625:0:2:0:0:0:25:0:0:0:0:0:40:0:0:0
 Cargo Hold 2:Large:625:0:2:0:0:0:35:0:0:0:0:0:50:0:0:0
 Cargo Hold 3:Large:625:0:4:0:0:0:40:0:0:0:0:0:60:0:0:0
 Cargo Hold 4:Large:625:0:4:0:0:0:45:0:0:0:0:0:70:0:0:0
+Cargo Hold 5:Large:625:0:4:0:0:0:50:0:0:0:0:2:75:0:0:0
+Cargo-Fuel Pod:Small:120:0:1:0:0:0:5:0:0:0:0:0:10:0:0:0
 Cargo-Fuel Storage:Medium:325:0:3:0:0:0:15:0:0:0:0:0:15:0:0:0
 Centurion Radiation Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Cloudstrike Lance:Small:150:0:3:6:1:0:0:0:0:0:0:0:0:0:0:0
 Combat Hospital:Large:650:0:5:0:3:0:0:0:0:1:2:3:0:0:0:8
 Commander PC-1:Small:100:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
 Commander Plasma Artillery:Medium:410:0:3:9:2:0:0:0:0:0:0:0:0:0:0:0
-Deathgun:Medium:300:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
 Defense Pattern Matrix:Small:125:2:2:0:3:0:0:0:0:0:0:2:0:0:0:0
 Defense Pattern Matrix 2:Small:125:2:2:0:3:0:0:0:0:0:0:2:0:0:0:0
 Defense Pattern Matrix 3:Small:125:3:3:0:3:0:0:0:0:0:0:3:0:0:0:0
@@ -59,29 +63,28 @@ Deflector Array 3:Medium:350:0:3:0:2:0:0:0:0:0:9:5:0:0:0:0
 Deflector Array 4:Medium:350:0:3:0:3:0:0:0:0:0:11:7:0:0:0:0
 Depth Scanner Omega:Small:150:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Depth Scanner Omega-X:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Digestive Void:Large:625:0:2:0:0:0:25:0:0:0:0:0:40:0:0:0
-Digestive Void:Large:625:0:2:0:0:0:35:0:0:0:0:0:50:0:0:0
+Dracos Missile Array:Small:125:0:2:9:1:0:0:0:0:0:0:0:0:0:0:0
+Dracos X2 Missile Battery:Small:125:0:2:10:1:0:0:0:0:0:0:0:0:0:0:0
 Dual-Arc Signal Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Dual-Linked Autocannon:Small:100:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
-Dual-Linked Missile Battery:Small:125:0:2:9:1:0:0:0:0:0:0:0:0:0:0:0
+Dual-Linked Vector Missile:Medium:300:0:3:10:1:0:0:0:0:0:0:0:0:0:0:0
 Duranium Coating:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 ECCM Screen Matrix 1:Small:150:0:4:0:0:2:0:0:0:0:0:0:0:0:0:0
 ECCM Screen Matrix 2:Small:150:0:4:0:0:2:0:0:0:0:0:0:0:0:0:0
 ECCM Screen Matrix 3:Small:150:0:3:0:0:3:0:0:0:0:0:0:0:0:0:0
 ECCM Screen Matrix 4:Small:150:0:3:0:0:3:0:0:0:0:0:0:0:0:0:0
 Elomag Railgun:Medium:300:0:4:5:2:0:0:0:0:0:0:0:0:0:0:0
-Escape Shuttle Bay:Large:1800:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 EVA Airlock:Small:150:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Exo-Crawler:Large:650:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Extraction Drill:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Ferrochromium Mesh:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Ferrochromium Plating:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Fighter Bay:Large:1000:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Firestorm Torpedo:Small:110:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
 Fuel Tank:Medium:325:0:1:0:2:0:0:0:0:0:0:0:40:0:0:0
 Fuel Tank 2:Medium:325:0:2:0:2:0:0:0:0:0:0:0:48:0:0:0
 Fuel Tank 3:Medium:325:0:3:0:3:0:0:0:0:0:0:0:56:0:0:0
 Fuel Tank 4:Medium:325:0:3:0:4:0:0:0:0:0:0:0:64:0:0:0
+Goliath Missile Battery:Medium:300:0:3:11:2:0:0:0:0:0:0:0:0:0:0:0
 Hardened Medical Facility:Large:650:0:5:0:3:0:0:0:0:2:3:4:0:0:0:9
 Harvester Bay:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Helios Railgun:Medium:300:0:3:4:1:0:0:0:0:0:0:0:0:0:0:0
@@ -92,6 +95,7 @@ Hospital Unit:Large:650:0:5:0:3:0:0:0:0:0:0:2:0:0:0:7
 Hull Plating 1:Large:620:0:2:0:1:0:0:0:0:0:10:5:0:0:0:0
 Hull Plating 2:Large:620:0:2:0:2:0:0:0:0:0:12:7:0:0:0:0
 Hull Plating 3:Large:620:0:0:0:3:0:0:0:0:0:14:9:0:0:0:0
+Hull Plating 4:Large:605:0:0:0:4:0:0:0:0:2:15:8:0:0:0:0
 HX-2 Lance:Small:150:0:2:6:1:0:0:0:0:0:0:0:0:0:0:0
 HX-Cycle Lance:Small:150:0:2:5:1:0:0:0:0:0:0:0:0:0:0:0
 Hydra Missile Array:Small:125:0:2:4:1:0:0:0:0:0:0:0:0:0:0:0
@@ -117,6 +121,7 @@ Large Fuel Tank 2:Large:620:0:2:0:3:0:0:0:0:0:0:0:90:0:0:0
 Large Fuel Tank 3:Large:620:0:3:0:3:0:0:0:0:0:0:0:105:0:0:0
 Large Fuel Tank 4:Large:620:0:3:0:3:0:0:0:0:0:0:0:130:0:0:0
 Light Railgun:Small:125:0:2:3:0:0:0:0:0:0:0:0:0:0:0:0
+Lightspear Railgun:Small:125:0:2:3:2:0:0:0:0:0:0:0:0:0:0:0
 Lionheart Cannon:Small:100:0:3:7:0:0:0:0:0:0:0:0:0:0:0:0
 Luxury Cabin:Medium:325:0:0:0:0:0:0:0:0:1:1:0:0:1:0:0
 Luxury Suites:Large:500:0:0:0:0:0:0:0:0:0:2:0:0:3:0:0
@@ -162,7 +167,7 @@ M8000 Void Engine-Balanced:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
 M8000 Void Engine-Chaser:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
 M8000 Void Engine-Longhaul:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
 M8000 Void Engine-Traveler:Large:1500:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
-M90 Barrel-Cannon :Medium:300:0:2:6:0:0:0:0:0:0:0:0:0:0:0:0
+M90 Barrel-Cannon:Medium:300:0:2:6:0:0:0:0:0:0:0:0:0:0:0:0
 M9000 Hyperwarp:Large:750:0:0:0:8:20:0:0:0:0:0:36:0:0:0:0
 M9000 Hyperwarp EX:Large:750:0:0:0:10:23:0:0:0:0:0:30:0:0:0:0
 M9000 Void Engine-Balanced:Large:1750:17:15:0:12:0:0:0:0:0:0:0:0:0:0:0
@@ -197,6 +202,7 @@ Nav Assist Module 2:Small:125:0:0:0:3:5:0:0:0:0:0:-2:0:0:0:0
 Nav Assist Module 3:Small:125:0:0:0:4:6:0:0:0:0:0:-3:0:0:0:0
 Nav Assist Module 4:Small:125:0:0:0:5:7:0:0:0:0:0:-3:0:0:0:0
 Officer Cabin:Small:75:0:0:0:0:0:0:0:1:0:0:0:0:0:0:0
+Officer Suites:Medium:275:0:0:0:0:0:0:0:2:0:0:0:0:0:0:0
 Orbital Fuel Scoop 1:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Orbital Fuel Scoop 2:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Orbital Fuel Scoop 3:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
@@ -209,22 +215,23 @@ Pilot Assist Module:Small:125:4:2:0:0:0:0:0:0:0:0:0:0:0:0:0
 Pilot Assist Module 2:Small:125:5:2:0:0:0:0:0:0:0:0:0:0:0:0:0
 Pilot Assist Module 3:Small:125:6:3:0:0:0:0:0:0:0:0:0:0:0:0:0
 Pilot Assist Module 4:Small:125:7:3:0:0:0:0:0:0:0:0:0:0:0:0:0
-Plasma Spitter:Small:100:0:1:4:0:0:0:0:0:0:0:0:0:0:0:0
 Prison Cell:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:1:0
 Prison Cellblock:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:3:0
 Radi-Shield Pulse Booster:Small:125:0:2:0:2:0:0:0:0:1:0:2:0:0:0:0
+Radiance Railgun:Small:125:0:3:4:3:0:0:0:0:0:0:0:0:0:0:0
 Radiation Seals:Medium:325:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Reactor Spike Module:Small:125:0:1:0:2:0:0:0:0:0:0:0:10:0:0:0
 Reactor Spike Module 2:Small:125:0:2:0:3:0:0:0:0:0:0:0:15:0:0:0
 Reactor Spike Module 3:Small:125:0:2:0:4:0:0:0:0:0:0:0:25:0:0:0
 Reactor Spike Module 4:Small:125:0:3:0:4:0:0:0:0:0:0:0:35:0:0:0
-Regeneration Pool:Medium:325:0:2:0:2:0:0:0:0:0:0:0:0:0:0:6
-Reinforced Barracks 4:Medium:325:0:0:0:0:0:0:30:0:3:3:0:0:0:0:0
-Reinforced Barracks 5:Medium:325:0:0:0:0:0:0:36:0:2:2:0:0:0:0:0
-Reinforced Barracks 6:Large:650:0:0:0:0:0:0:42:0:4:2:0:0:0:0:0
-Reinforced Barracks 8:Large:650:0:0:0:0:0:0:54:0:3:2:0:0:0:0:0
-Reinforced Hull:Medium:325:0:0:0:0:0:0:0:0:8:2:2:0:0:0:0
-Reinforced Officer Cabin:Small:75:0:0:0:0:0:0:0:1:1:1:0:0:0:0:0
+Reinforced Barracks 4:Medium:325:0:0:0:0:0:0:30:0:3:3:2:0:0:0:0
+Reinforced Barracks 4:Medium:325:0:0:0:0:0:0:30:0:2:2:2:0:0:0:0
+Reinforced Barracks 5:Medium:325:0:0:0:0:0:0:36:0:2:2:2:0:0:0:0
+Reinforced Barracks 6:Large:650:0:0:0:0:0:0:42:0:4:2:3:0:0:0:0
+Reinforced Barracks 8:Large:650:0:0:0:0:0:0:54:0:3:2:3:0:0:0:0
+Reinforced Fuel Pod:Small:110:0:2:0:0:0:0:0:0:1:0:1:18:0:0:0
+Reinforced Fuel Tank:Medium:325:0:3:0:0:0:0:0:0:2:0:2:35:0:0:0
+Reinforced Officer Cabin:Small:75:0:0:0:0:0:0:0:1:1:1:1:0:0:0:0
 Reinforced Structures:Medium:325:0:0:0:0:0:0:0:0:6:2:3:0:0:0:0
 Reinforced Structures 2:Medium:325:0:0:0:0:0:0:0:0:7:3:5:0:0:0:0
 Reinforced Structures 3:Medium:325:0:0:0:0:0:0:0:0:8:3:7:0:0:0:0
@@ -240,6 +247,7 @@ Sensor Array 1:Small:50:0:0:0:4:2:0:0:0:0:0:0:0:0:0:0
 Sensor Array 2:Small:50:0:0:0:5:2:0:0:0:0:0:0:0:0:0:0
 Sensor Array 3:Small:50:0:0:0:5:3:0:0:0:0:0:0:0:0:0:0
 Sensor Array 4:Small:50:0:0:0:6:3:0:0:0:0:0:0:0:0:0:0
+Shielded Officer Suites:Medium:275:0:0:0:0:0:0:0:2:0:2:0:0:0:0:0
 Sig Dampener:Small:125:0:2:0:4:0:0:0:0:0:0:0:0:0:0:0
 Signal Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Small Fuel Tank:Small:125:0:1:0:1:0:0:0:0:0:0:0:20:0:0:0
@@ -249,8 +257,8 @@ Small Fuel Tank 4:Small:125:0:3:0:2:0:0:0:0:0:0:0:38:0:0:0
 Stalwart PC-1:Small:100:0:2:5:1:0:0:0:0:0:0:0:0:0:0:0
 Starfall Lance Array:Medium:350:0:2:8:1:0:0:0:0:0:0:0:0:0:0:0
 Starshot Lance Array:Medium:350:0:2:5:0:0:0:0:0:0:0:0:0:0:0:0
-Storage Cache:Small:150:0:1:0:0:0:5:0:0:0:0:0:0:0:0:0
-Storage Hold:Medium:325:0:3:0:0:0:20:0:0:0:0:0:0:0:0:0
+Storage Cache:Small:125:0:1:0:0:0:10:0:0:0:0:0:0:0:0:0
+Storage Hold:Medium:325:0:3:0:0:0:25:0:0:0:0:0:0:0:0:0
 Surface Scanner:Small:150:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Targeting Matrix:Small:125:0:0:4:2:0:0:0:0:0:0:2:0:0:0:0
 Targeting Matrix 2:Small:125:0:0:4:2:0:0:0:0:0:0:2:0:0:0:0
@@ -260,17 +268,13 @@ Thunder XK3 Lance Array:Medium:350:0:3:7:2:0:0:0:0:0:0:0:0:0:0:0
 Torpedo Dual-Laced Array:Small:110:0:3:12:3:0:0:0:0:0:0:0:0:0:0:0
 Torpedo Mk-Alpha:Medium:325:0:1:5:1:0:0:0:0:0:0:0:0:0:0:0
 Torpedo MK2-Alpha:Medium:325:0:3:13:3:0:0:0:0:0:0:0:0:0:0:0
-Tri-Cast Missile Battery:Small:125:0:2:10:1:0:0:0:0:0:0:0:0:0:0:0
 Triple-Arc Signal Array:Small:125:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-Unknown Weapon:Large:625:0:3:9:0:0:0:0:0:0:0:0:0:0:0:0
 Valiant Autocannon:Small:100:0:1:4:0:0:0:0:0:0:0:0:0:0:0:0
 Vanguard Autocannon:Small:100:0:3:6:0:0:0:0:0:0:0:0:0:0:0:0
+Vector Missile System:Medium:300:0:3:7:1:0:0:0:0:0:0:0:0:0:0:0
 Vengence Gravcannon:Medium:325:0:1:5:0:0:0:0:0:0:0:0:0:0:0:0
 Void-Lance Torpedo:Medium:325:0:3:6:3:0:0:0:0:0:0:0:0:0:0:0
 Void-Shield Pulse Booster:Small:125:0:2:0:2:0:0:0:0:1:0:2:0:0:0:0
-Warp Darts:Small:110:0:2:4:0:0:0:0:0:0:0:0:0:0:0:0
-Warp Modulator:Small:125:0:1:0:2:0:0:0:0:0:0:0:10:0:0:0
-Warp Sack:Large:550:0:0:0:8:20:0:0:0:0:0:32:0:0:0:0
 Water-Fuel Reclamation:Medium:325:0:6:0:2:0:0:0:0:0:0:-2:12:0:0:0
 Weapons Locker A1:Small:175:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 Weapons Locker A2:Small:175:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
